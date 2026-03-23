@@ -1,5 +1,5 @@
 # CA05 – kNN Movie Recommender System
-
+#AI tools (Claude) were used to help guide the implementation and explanations for this project.
 ## Overview
 This project implements a k-Nearest Neighbors (kNN) based recommendation engine to identify movies similar to a given query movie ("The Post").
 
